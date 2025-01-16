@@ -4,7 +4,7 @@ Finds all domains of an organization and outputs it to the console and to a txt 
 # Setup:
 ````
 python -m venv .
-source ./bin.activate
+source ./bin/activate
 pip install -r requirments.txt
 ````
 # Usage
